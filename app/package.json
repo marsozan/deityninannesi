@@ -1,0 +1,35 @@
+{
+  "//1": "Yunus Emre || Wenzy Code",
+  "//2": "wenzyyy",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "Yunus Emre || Wenzy Code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "chalk": "^4.0.0",
+    "moment": "^2.26.0",
+    "jimp": "^0.12.1",
+    "quick.db": "^7.1.1",
+    "snekfetch": "^4.0.4",
+    "ms": "^2.1.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "Yunus Emre || Wenzy Code <3",
+    "Wenzy Code <3"
+  ]
+}
