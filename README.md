@@ -1,0 +1,2 @@
+# deityninannesi
+allah
